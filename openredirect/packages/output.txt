@@ -1,0 +1,10 @@
+URL https://www.google.com is not vulnerable to open redirects.
+URL https://www.wikipedia.org/ is not vulnerable to open redirects.
+URL https://www.bugbountyhunter.com/vulnerability/?type=open_redirect is not vulnerable to open redirects.
+URL https://enterprise-feedback-noneu.truecaller.com/ is not vulnerable to open redirects.
+URL https://msfteventsb2c.b2clogin.com/msfteventsb2c.onmicrosoft.com/b2c_1a_universal_pwreset/oauth2/v2.0/logout?post_logout_redirect_uri=http://karthithehacker.com&appId=dac54cc6-5b46-44ed-8f8d-d4bfc11ac4ea is vulnerable to open redirects.
+URL https://search-external-features-noneu.truecaller.com/ is not vulnerable to open redirects.
+URL https://www.bing.com/ is not vulnerable to open redirects.
+URL https://www.microsoft.com/en-us/bing?form=MA13FV is not vulnerable to open redirects.
+URL https://www.facebook.com/?redirect_uri=https://example.com is vulnerable to open redirects.
+URL https://www.amazon.com/?redirect=https://example.com is vulnerable to open redirects.

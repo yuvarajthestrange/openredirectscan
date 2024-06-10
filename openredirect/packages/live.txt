@@ -1,0 +1,10 @@
+https://www.google.com
+https://www.wikipedia.org/
+https://www.bugbountyhunter.com/vulnerability/?type=open_redirect
+https://enterprise-feedback-noneu.truecaller.com/
+https://msfteventsb2c.b2clogin.com/msfteventsb2c.onmicrosoft.com/b2c_1a_universal_pwreset/oauth2/v2.0/logout?post_logout_redirect_uri=http://karthithehacker.com&appId=dac54cc6-5b46-44ed-8f8d-d4bfc11ac4ea
+https://search-external-features-noneu.truecaller.com/
+https://www.bing.com/
+https://www.microsoft.com/en-us/bing?form=MA13FV
+https://www.facebook.com/?redirect_uri=https://example.com
+ https://www.amazon.com/?redirect=https://example.com
